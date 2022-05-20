@@ -1,2 +1,2 @@
 # Ecommerce-With-Django
-ecommerc project by django
+ecommerce project by django
